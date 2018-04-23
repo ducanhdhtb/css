@@ -4,10 +4,10 @@
 <style>
 div {
     background-color: lightgrey;
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
+    width: 50%;
+    padding: 50px;
+    margin: 50px;
+    border: 57px solid #607D8B;
 }
 </style>
 </head>
